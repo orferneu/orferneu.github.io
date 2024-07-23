@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://orferneu.github.io/sitemap
+Sitemap: https://orferneu.github.io/app/sitemap
+Sitemap: https://orferneu.github.io/assets/sitemap
+Sitemap: https://orferneu.github.io/css/sitemap
+Sitemap: https://orferneu.github.io/includes/sitemap
+Sitemap: https://orferneu.github.io/item/sitemap
+Sitemap: https://orferneu.github.io/src/sitemap
